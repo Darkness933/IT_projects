@@ -109,4 +109,5 @@ public class Main {
         System.out.println("Максимальний розмір черги CPU1: " + cpu1.getMaxQueueSize());
         System.out.println("Максимальний розмір черги CPU2: " + cpu2.getMaxQueueSize());
     }
+    // Код для другого коміту
 }
